@@ -12,7 +12,7 @@ mpl.use('QtAgg')
 midwest = pd.read_csv(r"E:\00_Temp\midwest_filter.csv")
 categories = np.unique(midwest.category)
 builder = cb.ColorBuilder()
-builder.build_colors("r","green",categories)
+builder.build_colors("b","g",categories)
 colors = builder.all_colors
 
 fig = plt.figure(figsize=(10, 6),dpi=100,facecolor="w",edgecolor='k')
