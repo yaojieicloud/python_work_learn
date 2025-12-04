@@ -9,3 +9,6 @@
 /.idea/
 /.idea/*
 /.idea/.gitignore
+packages/__pycache__/__init__.cpython-313.pyc
+packages/colors/__pycache__/__init__.cpython-313.pyc
+*.pyc
