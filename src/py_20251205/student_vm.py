@@ -1,9 +1,9 @@
 from _ast import While
 
-from src.py20251205.student import Student
+from src.py_20251205.student import Student
 import re
 
-from src.py20251205.student_manager import StudentManager
+from src.py_20251205.student_manager import StudentManager
 
 
 class StudentViewModel:

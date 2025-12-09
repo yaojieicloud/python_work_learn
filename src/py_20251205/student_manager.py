@@ -1,4 +1,4 @@
-from src.py20251205.student import Student
+from src.py_20251205.student import Student
 import re
 
 

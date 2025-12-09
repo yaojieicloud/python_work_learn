@@ -2,7 +2,7 @@ import sys
 
 import student
 
-from src.py20251205.student_vm import StudentViewModel
+from src.py_20251205.student_vm import StudentViewModel
 
 stu_vm = StudentViewModel()
 
