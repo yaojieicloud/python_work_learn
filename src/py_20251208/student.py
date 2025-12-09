@@ -9,7 +9,7 @@ class Score:
         self.id = 0
 
 
-class Student:
+class Student: 
     """
     学生基本信息类
     """
